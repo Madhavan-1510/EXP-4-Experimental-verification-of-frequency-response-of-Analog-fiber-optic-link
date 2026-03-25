@@ -15,6 +15,11 @@ To analyze the relationship between input and received signal of a 660nm fiber o
 -	1 Meter Fiber Cable.
 ---
 
+## BLOCK DIAGRAM
+<img width="723" height="423" alt="image" src="https://github.com/user-attachments/assets/323eb974-7a4c-4e1f-a286-b5d6cddf7ead" />
+
+---
+
 ## THEORY
 Fiber optic links can be used for transmission of digital as well as analog signals. Basically a fiber optic link contains three main elements, a transmitter, an optical fiber and a receiver. The transmitter module takes the input signal in electrical form and then transforms it into optical (light) energy containing the same information. The optical fiber is the medium which takes the energy to the receiver. At the receiver light is converted back into electrical form with the same pattern as originally fed to the transmitter.
 
